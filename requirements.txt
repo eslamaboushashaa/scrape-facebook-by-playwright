@@ -5,4 +5,5 @@ lxml==4.8.0
 pandas==1.4.1
 base58==2.1.1
 plotly==5.6.0
+playwright install
 
