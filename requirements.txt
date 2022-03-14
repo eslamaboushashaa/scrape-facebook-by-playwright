@@ -5,4 +5,9 @@ lxml==4.8.0
 pandas==1.4.1
 base58==2.1.1
 plotly==5.6.0
-
+webencodings==0.5.1
+watchdog==2.1.6
+websockets==10.1
+widgetsnbextension==3.5.2
+requests==2.27.1
+click==8.0.4
