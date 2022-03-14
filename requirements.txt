@@ -1,5 +1,4 @@
 streamlit==1.7.0
-facebook_backend
 playwright==1.19.1
 time
 beautifulsoup4==4.10.0
