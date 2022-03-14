@@ -1,11 +1,11 @@
-﻿import streamlit as st
-from facebook_backend import parse_facebook
-from bs4.element import Tag
-from playwright.sync_api import sync_playwright
-import time
-from bs4 import BeautifulSoup
-import lxml
-import pandas as pd
-import base64
-import plotly.graph_objects as go
+streamlit==1.7.0
+facebook_backend
+playwright==1.19.1
+time
+beautifulsoup4==4.10.0
+lxml==4.8.0
+pandas==1.4.1
+base64
+base58==2.1.1
+plotly==5.6.0
 
