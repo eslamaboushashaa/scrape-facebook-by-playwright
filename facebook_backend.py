@@ -11,7 +11,7 @@ class parse_facebook:
 
     def go_to_page(self, page_url):
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False)
+            browser = p.chromium.launch()
             context = browser.new_context()
             page = context.new_page()
             try:
