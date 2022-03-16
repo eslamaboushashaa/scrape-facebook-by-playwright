@@ -10,10 +10,10 @@ _____________________
 ## Technical skills which I used in this project.
 - **python and OOP** 
 - **pandas**
-- > To create data frame and clean data.
+ > To create data frame and clean data.
 - **Playwright** 
-- > To scrape Facebook.
+ > To scrape Facebook.
 - **Streamlit**
-- > To make wep app.
+ > To make wep app.
 - **Beautifoul Soup**
-- > To extract data from HTML code
+ > To extract data from HTML code
