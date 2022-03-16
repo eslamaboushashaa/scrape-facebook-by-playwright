@@ -4,6 +4,6 @@ This app scrapes Facebook pages and extracts from each post (Date, no of reacts,
 you can see this video about my app from here
 
 <a href="https://youtu.be/HoF0utqcp5Y">
-  <img align="middle" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+  <img align="right" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 
